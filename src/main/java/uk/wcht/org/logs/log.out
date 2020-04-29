@@ -1,0 +1,136 @@
+2020-04-26 09:04:292 INFO  BrowserSelector :21 - launching the  Chrome browser
+2020-04-26 09:04:775 INFO  BrowserSelector :21 - launching the  Chrome browser
+2020-04-26 10:04:376 INFO  BrowserSelector :21 - launching the  Chrome browser
+2020-04-26 10:04:309 INFO  HomePage :24 - Clicking on your account link : Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Your account')]'
+2020-04-26 10:04:371 INFO  YourAccountPage :24 - Getting text from [[ChromeDriver: chrome on WINDOWS (0d17ffb156e0bcc7953b0082d453a7e9)] -> xpath: //span[contains(text(),"It's easy to manage your tenancy with an online ac")]]
+2020-04-26 10:04:645 INFO  BrowserSelector :21 - launching the  Chrome browser
+2020-04-26 10:04:302 INFO  BrowserSelector :21 - launching the  Chrome browser
+2020-04-26 10:04:273 INFO  BrowserSelector :21 - launching the  Chrome browser
+2020-04-26 10:04:982 INFO  BrowserSelector :21 - launching the  Chrome browser
+2020-04-26 10:04:598 INFO  HomePage :25 - Clicking on close button : [[ChromeDriver: chrome on WINDOWS (27911d86d0a1b05d328fa12cd9d09cdf)] -> xpath: //button[@class="modal__close js-modal-close"]]
+2020-04-26 10:04:386 INFO  HomePage :31 - Clicking on your account link : Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Your account')]'
+2020-04-26 10:04:445 INFO  YourAccountPage :24 - Getting text from [[ChromeDriver: chrome on WINDOWS (27911d86d0a1b05d328fa12cd9d09cdf)] -> xpath: //span[contains(text(),"It's easy to manage your tenancy with an online ac")]]
+2020-04-26 11:04:612 INFO  BrowserSelector :21 - launching the  Chrome browser
+2020-04-26 11:04:601 INFO  HomePage :29 - Clicking on close button : [[ChromeDriver: chrome on WINDOWS (e0069df2c33ac782571efd258c8d4c8d)] -> xpath: //button[@class="modal__close js-modal-close"]]
+2020-04-26 11:04:763 INFO  HomePage :35 - Clicking on your account link : Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Your account')]'
+2020-04-26 11:04:834 INFO  YourAccountPage :29 - Getting text from [[ChromeDriver: chrome on WINDOWS (e0069df2c33ac782571efd258c8d4c8d)] -> xpath: //span[contains(text(),"It's easy to manage your tenancy with an online ac")]]
+2020-04-26 11:04:345 INFO  BrowserSelector :21 - launching the  Chrome browser
+2020-04-26 11:04:210 INFO  HomePage :29 - Clicking on close button : [[ChromeDriver: chrome on WINDOWS (53d1de524d2963b2407dbfdcb216b291)] -> xpath: //button[@class="modal__close js-modal-close"]]
+2020-04-26 11:04:804 INFO  HomePage :41 - Clicking on your community link : [[ChromeDriver: chrome on WINDOWS (53d1de524d2963b2407dbfdcb216b291)] -> link text: Your community]
+2020-04-26 11:04:955 INFO  YourCommunity :27 - Getting text from [[ChromeDriver: chrome on WINDOWS (53d1de524d2963b2407dbfdcb216b291)] -> xpath: //h1[contains(text(),'Your community')]]
+2020-04-26 11:04:844 INFO  BrowserSelector :21 - launching the  Chrome browser
+2020-04-26 11:04:648 INFO  HomePage :29 - Clicking on close button : [[ChromeDriver: chrome on WINDOWS (95784419d5fe4813c1e593c3b5c3657d)] -> xpath: //button[@class="modal__close js-modal-close"]]
+2020-04-26 11:04:97 INFO  HomePage :35 - Clicking on your account link : Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Your account')]'
+2020-04-26 11:04:158 INFO  YourAccountPage :29 - Getting text from [[ChromeDriver: chrome on WINDOWS (95784419d5fe4813c1e593c3b5c3657d)] -> xpath: //span[contains(text(),"It's easy to manage your tenancy with an online ac")]]
+2020-04-26 11:04:990 INFO  BrowserSelector :21 - launching the  Chrome browser
+2020-04-26 11:04:262 INFO  HomePage :29 - Clicking on close button : [[ChromeDriver: chrome on WINDOWS (743a5c3c49a031a5d82e1d373d3fbdf0)] -> xpath: //button[@class="modal__close js-modal-close"]]
+2020-04-26 11:04:578 INFO  HomePage :41 - Clicking on your community link : [[ChromeDriver: chrome on WINDOWS (743a5c3c49a031a5d82e1d373d3fbdf0)] -> link text: Your community]
+2020-04-26 11:04:656 INFO  YourCommunity :27 - Getting text from [[ChromeDriver: chrome on WINDOWS (743a5c3c49a031a5d82e1d373d3fbdf0)] -> xpath: //h1[contains(text(),'Your community')]]
+2020-04-26 11:04:626 INFO  BrowserSelector :21 - launching the  Chrome browser
+2020-04-26 11:04:201 INFO  HomePage :29 - Clicking on close button : [[ChromeDriver: chrome on WINDOWS (f5de398e135e157351c56d550e5d6a86)] -> xpath: //button[@class="modal__close js-modal-close"]]
+2020-04-26 11:04:350 INFO  HomePage :35 - Clicking on your account link : Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Your account')]'
+2020-04-26 11:04:400 INFO  YourAccountPage :29 - Getting text from [[ChromeDriver: chrome on WINDOWS (f5de398e135e157351c56d550e5d6a86)] -> xpath: //span[contains(text(),"It's easy to manage your tenancy with an online ac")]]
+2020-04-26 11:04:507 INFO  BrowserSelector :21 - launching the  Chrome browser
+2020-04-26 11:04:891 INFO  HomePage :29 - Clicking on close button : [[ChromeDriver: chrome on WINDOWS (5be13bc175c9d1bf87ec14ae7d001eea)] -> xpath: //button[@class="modal__close js-modal-close"]]
+2020-04-26 11:04:185 INFO  HomePage :41 - Clicking on your community link : [[ChromeDriver: chrome on WINDOWS (5be13bc175c9d1bf87ec14ae7d001eea)] -> link text: Your community]
+2020-04-26 11:04:329 INFO  YourCommunity :27 - Getting text from [[ChromeDriver: chrome on WINDOWS (5be13bc175c9d1bf87ec14ae7d001eea)] -> xpath: //h1[contains(text(),'Your community')]]
+2020-04-26 11:04:279 INFO  BrowserSelector :21 - launching the  Chrome browser
+2020-04-26 11:04:939 INFO  HomePage :29 - Clicking on close button : [[ChromeDriver: chrome on WINDOWS (9f72b59c99a72a7ee71053270da96e83)] -> xpath: //button[@class="modal__close js-modal-close"]]
+2020-04-26 11:04:567 INFO  HomePage :35 - Clicking on your account link : Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Your account')]'
+2020-04-26 11:04:634 INFO  YourAccountPage :29 - Getting text from [[ChromeDriver: chrome on WINDOWS (9f72b59c99a72a7ee71053270da96e83)] -> xpath: //span[contains(text(),"It's easy to manage your tenancy with an online ac")]]
+2020-04-26 11:04:197 INFO  BrowserSelector :21 - launching the  Chrome browser
+2020-04-26 11:04:774 INFO  HomePage :29 - Clicking on close button : [[ChromeDriver: chrome on WINDOWS (15c57cac767e650a631a5a46d6f7c2f3)] -> xpath: //button[@class="modal__close js-modal-close"]]
+2020-04-26 11:04:957 INFO  HomePage :35 - Clicking on your account link : Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Your account')]'
+2020-04-26 11:04:14 INFO  YourAccountPage :35 - Clicking On create new account : [[ChromeDriver: chrome on WINDOWS (15c57cac767e650a631a5a46d6f7c2f3)] -> xpath: //html//body//main//div//div//div//div//div//div//div//div//div//form//input]
+2020-04-26 11:04:317 INFO  YourAccountPage :40 - Getting text from [[ChromeDriver: chrome on WINDOWS (15c57cac767e650a631a5a46d6f7c2f3)] -> xpath: //h3[contains(text(),'Register')]]
+2020-04-26 11:04:703 INFO  BrowserSelector :21 - launching the  Chrome browser
+2020-04-26 11:04:687 INFO  HomePage :29 - Clicking on close button : [[ChromeDriver: chrome on WINDOWS (ea952bc63de6d153c5afe43d7671ffd2)] -> xpath: //button[@class="modal__close js-modal-close"]]
+2020-04-26 11:04:349 INFO  HomePage :41 - Clicking on your community link : [[ChromeDriver: chrome on WINDOWS (ea952bc63de6d153c5afe43d7671ffd2)] -> link text: Your community]
+2020-04-26 11:04:422 INFO  YourCommunity :27 - Getting text from [[ChromeDriver: chrome on WINDOWS (ea952bc63de6d153c5afe43d7671ffd2)] -> xpath: //h1[contains(text(),'Your community')]]
+2020-04-26 11:04:893 INFO  BrowserSelector :21 - launching the  Chrome browser
+2020-04-26 11:04:875 INFO  HomePage :29 - Clicking on close button : [[ChromeDriver: chrome on WINDOWS (097fa1437ce6c305bd5ba2380d9153bb)] -> xpath: //button[@class="modal__close js-modal-close"]]
+2020-04-26 11:04:814 INFO  HomePage :41 - Clicking on your community link : [[ChromeDriver: chrome on WINDOWS (097fa1437ce6c305bd5ba2380d9153bb)] -> link text: Your community]
+2020-04-26 11:04:958 INFO  YourCommunity :33 - clicking on our community work : [[ChromeDriver: chrome on WINDOWS (097fa1437ce6c305bd5ba2380d9153bb)] -> xpath: //body//section//div[1]//div[1]//a[1]//div[1]//div[1]//div[1]]
+2020-04-26 11:04:315 INFO  YourCommunity :39 - Getting text from : [[ChromeDriver: chrome on WINDOWS (097fa1437ce6c305bd5ba2380d9153bb)] -> xpath: //h1[contains(text(),'Our community work')]]
+2020-04-26 12:04:707 INFO  BrowserSelector :21 - launching the  Chrome browser
+2020-04-26 12:04:731 INFO  HomePage :29 - Clicking on close button : [[ChromeDriver: chrome on WINDOWS (2734de6e04c574840a5138db96b4f97c)] -> xpath: //button[@class="modal__close js-modal-close"]]
+2020-04-26 12:04:904 INFO  HomePage :35 - Clicking on your account link : Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Your account')]'
+2020-04-26 12:04:957 INFO  YourAccountPage :29 - Getting text from [[ChromeDriver: chrome on WINDOWS (2734de6e04c574840a5138db96b4f97c)] -> xpath: //span[contains(text(),"It's easy to manage your tenancy with an online ac")]]
+2020-04-26 12:04:247 INFO  BrowserSelector :21 - launching the  Chrome browser
+2020-04-26 12:04:170 INFO  HomePage :29 - Clicking on close button : [[ChromeDriver: chrome on WINDOWS (554abd25506b11e46002c027cc7b383a)] -> xpath: //button[@class="modal__close js-modal-close"]]
+2020-04-26 12:04:934 INFO  HomePage :35 - Clicking on your account link : Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Your account')]'
+2020-04-26 12:04:997 INFO  YourAccountPage :35 - Clicking On create new account : [[ChromeDriver: chrome on WINDOWS (554abd25506b11e46002c027cc7b383a)] -> xpath: //html//body//main//div//div//div//div//div//div//div//div//div//form//input]
+2020-04-26 12:04:185 INFO  YourAccountPage :40 - Getting text from [[ChromeDriver: chrome on WINDOWS (554abd25506b11e46002c027cc7b383a)] -> xpath: //h3[contains(text(),'Register')]]
+2020-04-26 12:04:707 INFO  BrowserSelector :21 - launching the  Chrome browser
+2020-04-26 12:04:454 INFO  HomePage :29 - Clicking on close button : [[ChromeDriver: chrome on WINDOWS (8e3502cbfac99c4e4b1e7a1c2ddf73d3)] -> xpath: //button[@class="modal__close js-modal-close"]]
+2020-04-26 12:04:44 INFO  HomePage :41 - Clicking on your community link : [[ChromeDriver: chrome on WINDOWS (8e3502cbfac99c4e4b1e7a1c2ddf73d3)] -> link text: Your community]
+2020-04-26 12:04:113 INFO  YourCommunity :27 - Getting text from [[ChromeDriver: chrome on WINDOWS (8e3502cbfac99c4e4b1e7a1c2ddf73d3)] -> xpath: //h1[contains(text(),'Your community')]]
+2020-04-26 12:04:301 INFO  BrowserSelector :21 - launching the  Chrome browser
+2020-04-26 12:04:779 INFO  HomePage :29 - Clicking on close button : [[ChromeDriver: chrome on WINDOWS (d37aeb7e62f23cc5ca779b4a0158b0f4)] -> xpath: //button[@class="modal__close js-modal-close"]]
+2020-04-26 12:04:520 INFO  HomePage :41 - Clicking on your community link : [[ChromeDriver: chrome on WINDOWS (d37aeb7e62f23cc5ca779b4a0158b0f4)] -> link text: Your community]
+2020-04-26 12:04:588 INFO  YourCommunity :33 - clicking on our community work : [[ChromeDriver: chrome on WINDOWS (d37aeb7e62f23cc5ca779b4a0158b0f4)] -> xpath: //body//section//div[1]//div[1]//a[1]//div[1]//div[1]//div[1]]
+2020-04-26 12:04:450 INFO  YourCommunity :39 - Getting text from : [[ChromeDriver: chrome on WINDOWS (d37aeb7e62f23cc5ca779b4a0158b0f4)] -> xpath: //h1[contains(text(),'Our community work')]]
+2020-04-26 14:04:308 INFO  BrowserSelector :21 - launching the  Chrome browser
+2020-04-26 14:04:394 INFO  HomePage :29 - Clicking on close button : [[ChromeDriver: chrome on WINDOWS (6c3892fa84f7a2bd0db6ac5cffa226c6)] -> xpath: //button[@class="modal__close js-modal-close"]]
+2020-04-26 14:04:314 INFO  HomePage :35 - Clicking on your account link : Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Your account')]'
+2020-04-26 14:04:369 INFO  YourAccountPage :29 - Getting text from [[ChromeDriver: chrome on WINDOWS (6c3892fa84f7a2bd0db6ac5cffa226c6)] -> xpath: //span[contains(text(),"It's easy to manage your tenancy with an online ac")]]
+2020-04-26 14:04:807 INFO  BrowserSelector :21 - launching the  Chrome browser
+2020-04-26 14:04:472 INFO  HomePage :29 - Clicking on close button : [[ChromeDriver: chrome on WINDOWS (1bc8ad6ce45e7e98ade57f26bd9f2889)] -> xpath: //button[@class="modal__close js-modal-close"]]
+2020-04-26 14:04:259 INFO  HomePage :35 - Clicking on your account link : Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Your account')]'
+2020-04-26 14:04:321 INFO  YourAccountPage :35 - Clicking On create new account : [[ChromeDriver: chrome on WINDOWS (1bc8ad6ce45e7e98ade57f26bd9f2889)] -> xpath: //html//body//main//div//div//div//div//div//div//div//div//div//form//input]
+2020-04-26 14:04:500 INFO  YourAccountPage :40 - Getting text from [[ChromeDriver: chrome on WINDOWS (1bc8ad6ce45e7e98ade57f26bd9f2889)] -> xpath: //h3[contains(text(),'Register')]]
+2020-04-26 14:04:482 INFO  BrowserSelector :21 - launching the  Chrome browser
+2020-04-26 14:04:557 INFO  HomePage :29 - Clicking on close button : [[ChromeDriver: chrome on WINDOWS (7fd2c532366eb4bf0298ba43f1937c8f)] -> xpath: //button[@class="modal__close js-modal-close"]]
+2020-04-26 14:04:799 INFO  HomePage :41 - Clicking on your community link : [[ChromeDriver: chrome on WINDOWS (7fd2c532366eb4bf0298ba43f1937c8f)] -> link text: Your community]
+2020-04-26 14:04:874 INFO  YourCommunity :27 - Getting text from [[ChromeDriver: chrome on WINDOWS (7fd2c532366eb4bf0298ba43f1937c8f)] -> xpath: //h1[contains(text(),'Your community')]]
+2020-04-26 14:04:263 INFO  BrowserSelector :21 - launching the  Chrome browser
+2020-04-26 14:04:226 INFO  HomePage :29 - Clicking on close button : [[ChromeDriver: chrome on WINDOWS (9690ee19f0c09248d7cff781795e0e41)] -> xpath: //button[@class="modal__close js-modal-close"]]
+2020-04-26 14:04:749 INFO  HomePage :41 - Clicking on your community link : [[ChromeDriver: chrome on WINDOWS (9690ee19f0c09248d7cff781795e0e41)] -> link text: Your community]
+2020-04-26 14:04:154 INFO  YourCommunity :33 - clicking on our community work : [[ChromeDriver: chrome on WINDOWS (9690ee19f0c09248d7cff781795e0e41)] -> xpath: //body//section//div[1]//div[1]//a[1]//div[1]//div[1]//div[1]]
+2020-04-26 14:04:511 INFO  YourCommunity :39 - Getting text from : [[ChromeDriver: chrome on WINDOWS (9690ee19f0c09248d7cff781795e0e41)] -> xpath: //h1[contains(text(),'Our community work')]]
+2020-04-28 10:04:992 INFO  BrowserSelector :21 - launching the  Chrome browser
+2020-04-28 10:04:682 INFO  HomePage :29 - Clicking on close button : [[ChromeDriver: chrome on WINDOWS (1885190f8dc75394157a3c6bca5a9b74)] -> xpath: //button[@class="modal__close js-modal-close"]]
+2020-04-28 10:04:848 INFO  HomePage :35 - Clicking on your account link : Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Your account')]'
+2020-04-28 10:04:911 INFO  YourAccountPage :29 - Getting text from [[ChromeDriver: chrome on WINDOWS (1885190f8dc75394157a3c6bca5a9b74)] -> xpath: //span[contains(text(),"It's easy to manage your tenancy with an online ac")]]
+2020-04-28 10:04:942 INFO  BrowserSelector :21 - launching the  Chrome browser
+2020-04-28 10:04:255 INFO  HomePage :29 - Clicking on close button : [[ChromeDriver: chrome on WINDOWS (5b4d1dac8c80b09eb5d6a4456fcf0091)] -> xpath: //button[@class="modal__close js-modal-close"]]
+2020-04-28 10:04:973 INFO  HomePage :35 - Clicking on your account link : Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Your account')]'
+2020-04-28 10:04:35 INFO  YourAccountPage :35 - Clicking On create new account : [[ChromeDriver: chrome on WINDOWS (5b4d1dac8c80b09eb5d6a4456fcf0091)] -> xpath: //html//body//main//div//div//div//div//div//div//div//div//div//form//input]
+2020-04-28 10:04:289 INFO  YourAccountPage :40 - Getting text from [[ChromeDriver: chrome on WINDOWS (5b4d1dac8c80b09eb5d6a4456fcf0091)] -> xpath: //h3[contains(text(),'Register')]]
+2020-04-28 10:04:307 INFO  BrowserSelector :21 - launching the  Chrome browser
+2020-04-28 10:04:330 INFO  HomePage :29 - Clicking on close button : [[ChromeDriver: chrome on WINDOWS (8e90b019ed5aec8449cd745a8663d5a9)] -> xpath: //button[@class="modal__close js-modal-close"]]
+2020-04-28 10:04:530 INFO  HomePage :41 - Clicking on your community link : [[ChromeDriver: chrome on WINDOWS (8e90b019ed5aec8449cd745a8663d5a9)] -> link text: Your community]
+2020-04-28 10:04:672 INFO  YourCommunity :27 - Getting text from [[ChromeDriver: chrome on WINDOWS (8e90b019ed5aec8449cd745a8663d5a9)] -> xpath: //h1[contains(text(),'Your community')]]
+2020-04-28 10:04:759 INFO  BrowserSelector :21 - launching the  Chrome browser
+2020-04-28 10:04:366 INFO  HomePage :29 - Clicking on close button : [[ChromeDriver: chrome on WINDOWS (20f2b8a0bec9d87cb6ed19f6f75cf6ef)] -> xpath: //button[@class="modal__close js-modal-close"]]
+2020-04-28 10:04:703 INFO  HomePage :41 - Clicking on your community link : [[ChromeDriver: chrome on WINDOWS (20f2b8a0bec9d87cb6ed19f6f75cf6ef)] -> link text: Your community]
+2020-04-28 10:04:767 INFO  YourCommunity :33 - clicking on our community work : [[ChromeDriver: chrome on WINDOWS (20f2b8a0bec9d87cb6ed19f6f75cf6ef)] -> xpath: //body//section//div[1]//div[1]//a[1]//div[1]//div[1]//div[1]]
+2020-04-28 10:04:227 INFO  YourCommunity :39 - Getting text from : [[ChromeDriver: chrome on WINDOWS (20f2b8a0bec9d87cb6ed19f6f75cf6ef)] -> xpath: //h1[contains(text(),'Our community work')]]
+2020-04-28 10:04:480 INFO  BrowserSelector :21 - launching the  Chrome browser
+2020-04-28 10:04:518 INFO  HomePage :29 - Clicking on close button : [[ChromeDriver: chrome on WINDOWS (f2e52a9097d7b54f4207683aa1f0f7b2)] -> xpath: //button[@class="modal__close js-modal-close"]]
+2020-04-28 10:04:105 INFO  HomePage :35 - Clicking on your account link : Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Your account')]'
+2020-04-28 10:04:183 INFO  YourAccountPage :29 - Getting text from [[ChromeDriver: chrome on WINDOWS (f2e52a9097d7b54f4207683aa1f0f7b2)] -> xpath: //span[contains(text(),"It's easy to manage your tenancy with an online ac")]]
+2020-04-28 10:04:370 INFO  BrowserSelector :21 - launching the  Chrome browser
+2020-04-28 10:04:737 INFO  BrowserSelector :21 - launching the  Chrome browser
+2020-04-28 10:04:276 INFO  HomePage :29 - Clicking on close button : [[ChromeDriver: chrome on WINDOWS (b5fc02507580ffd895d1ac67756ac1db)] -> xpath: //button[@class="modal__close js-modal-close"]]
+2020-04-28 10:04:200 INFO  HomePage :41 - Clicking on your community link : [[ChromeDriver: chrome on WINDOWS (b5fc02507580ffd895d1ac67756ac1db)] -> link text: Your community]
+2020-04-28 10:04:256 INFO  YourCommunity :27 - Getting text from [[ChromeDriver: chrome on WINDOWS (b5fc02507580ffd895d1ac67756ac1db)] -> xpath: //h1[contains(text(),'Your community')]]
+2020-04-28 10:04:321 INFO  BrowserSelector :21 - launching the  Chrome browser
+2020-04-28 10:04:461 INFO  BrowserSelector :21 - launching the  Chrome browser
+2020-04-28 10:04:828 INFO  HomePage :29 - Clicking on close button : [[ChromeDriver: chrome on WINDOWS (75d00817db0e1a410c0b192c2146c5d4)] -> xpath: //button[@class="modal__close js-modal-close"]]
+2020-04-28 10:04:285 INFO  HomePage :35 - Clicking on your account link : Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Your account')]'
+2020-04-28 10:04:347 INFO  YourAccountPage :29 - Getting text from [[ChromeDriver: chrome on WINDOWS (75d00817db0e1a410c0b192c2146c5d4)] -> xpath: //span[contains(text(),"It's easy to manage your tenancy with an online ac")]]
+2020-04-28 10:04:378 INFO  BrowserSelector :21 - launching the  Chrome browser
+2020-04-28 10:04:173 INFO  HomePage :29 - Clicking on close button : [[ChromeDriver: chrome on WINDOWS (99b5d214104e5b260c2600da6fb820f8)] -> xpath: //button[@class="modal__close js-modal-close"]]
+2020-04-28 10:04:232 INFO  HomePage :35 - Clicking on your account link : Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Your account')]'
+2020-04-28 10:04:295 INFO  YourAccountPage :35 - Clicking On create new account : [[ChromeDriver: chrome on WINDOWS (99b5d214104e5b260c2600da6fb820f8)] -> xpath: //html//body//main//div//div//div//div//div//div//div//div//div//form//input]
+2020-04-28 10:04:476 INFO  YourAccountPage :40 - Getting text from [[ChromeDriver: chrome on WINDOWS (99b5d214104e5b260c2600da6fb820f8)] -> xpath: //h3[contains(text(),'Register')]]
+2020-04-28 10:04:476 INFO  BrowserSelector :21 - launching the  Chrome browser
+2020-04-28 11:04:184 INFO  HomePage :29 - Clicking on close button : [[ChromeDriver: chrome on WINDOWS (a69c8651280298ca00e732138df0ebea)] -> xpath: //button[@class="modal__close js-modal-close"]]
+2020-04-28 11:04:383 INFO  HomePage :41 - Clicking on your community link : [[ChromeDriver: chrome on WINDOWS (a69c8651280298ca00e732138df0ebea)] -> link text: Your community]
+2020-04-28 11:04:441 INFO  YourCommunity :27 - Getting text from [[ChromeDriver: chrome on WINDOWS (a69c8651280298ca00e732138df0ebea)] -> xpath: //h1[contains(text(),'Your community')]]
+2020-04-28 11:04:400 INFO  BrowserSelector :21 - launching the  Chrome browser
+2020-04-28 11:04:510 INFO  HomePage :29 - Clicking on close button : [[ChromeDriver: chrome on WINDOWS (13714f8aaa28a834b5cdb028e3c095a4)] -> xpath: //button[@class="modal__close js-modal-close"]]
+2020-04-28 11:04:771 INFO  HomePage :41 - Clicking on your community link : [[ChromeDriver: chrome on WINDOWS (13714f8aaa28a834b5cdb028e3c095a4)] -> link text: Your community]
+2020-04-28 11:04:848 INFO  YourCommunity :33 - clicking on our community work : [[ChromeDriver: chrome on WINDOWS (13714f8aaa28a834b5cdb028e3c095a4)] -> xpath: //body//section//div[1]//div[1]//a[1]//div[1]//div[1]//div[1]]
+2020-04-28 11:04:517 INFO  YourCommunity :39 - Getting text from : [[ChromeDriver: chrome on WINDOWS (13714f8aaa28a834b5cdb028e3c095a4)] -> xpath: //h1[contains(text(),'Our community work')]]

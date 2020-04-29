@@ -1,0 +1,378 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 88253939800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 6,
+        "name": "User should navigate to your account page successfully",
+        "description": "",
+        "id": "your-account-page-feature;user-should-navigate-to-your-account-page-successfully",
+        "after": [
+          {
+            "result": {
+              "duration": 955807800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 393722900,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I am on home page",
+            "match": {
+              "location": "YourAccountPageSteps.iAmOnHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 442349900,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I click on close button",
+            "match": {
+              "location": "YourAccountPageSteps.iClickOnCloseButton()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 14464384900,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I click on your account page link",
+            "match": {
+              "location": "YourAccountPageSteps.iClickOnYourAccountPageLink()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 101678600,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I should navigate to your account page successfully",
+            "match": {
+              "location": "YourAccountPageSteps.iShouldNavigateToYourAccountPageSuccessfully()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 55942377400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 13,
+        "name": "User should navigate to create new account page successfully",
+        "description": "",
+        "id": "your-account-page-feature;user-should-navigate-to-create-new-account-page-successfully",
+        "after": [
+          {
+            "result": {
+              "duration": 938329900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 59700,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "I am on home page",
+            "match": {
+              "location": "YourAccountPageSteps.iAmOnHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 852536500,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "I click on close button",
+            "match": {
+              "location": "YourAccountPageSteps.iClickOnCloseButton()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 13067198700,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "I click on your account page link",
+            "match": {
+              "location": "YourAccountPageSteps.iClickOnYourAccountPageLink()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 534460600,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "I click on create new account link",
+            "match": {
+              "location": "YourAccountPageSteps.iClickOnCreateNewAccountLink()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 731814400,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "I should navigate to register account page",
+            "match": {
+              "location": "YourAccountPageSteps.iShouldNavigateToRegisterAccountPage()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Your account page feature",
+    "description": "As a user I want to navigate to your account page into watford community website",
+    "id": "your-account-page-feature",
+    "keyword": "Feature",
+    "uri": "src/test/java/uk/wcht/org/resources/featurefile/youraccount.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@YourAccount"
+      }
+    ]
+  },
+  {
+    "line": 2,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 52813775500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 6,
+        "name": "User should navigate to your community page successfully",
+        "description": "",
+        "id": "your-community-page-feature;user-should-navigate-to-your-community-page-successfully",
+        "after": [
+          {
+            "result": {
+              "duration": 912199500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 62100,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I am on home page",
+            "match": {
+              "location": "YourAccountPageSteps.iAmOnHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 890577600,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I click on close button",
+            "match": {
+              "location": "YourAccountPageSteps.iClickOnCloseButton()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3195515600,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I click on your community page link",
+            "match": {
+              "location": "YourCommunitySteps.iClickOnYourCommunityPageLink()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 99596800,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I should navigate to your community page successfully",
+            "match": {
+              "location": "YourCommunitySteps.iShouldNavigateToYourCommunityPageSuccessfully()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 123817275400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 12,
+        "name": "User should navigate to our community work page successfully",
+        "description": "",
+        "id": "your-community-page-feature;user-should-navigate-to-our-community-work-page-successfully",
+        "after": [
+          {
+            "result": {
+              "duration": 1277998000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 82500,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I am on home page",
+            "match": {
+              "location": "YourAccountPageSteps.iAmOnHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 279414700,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "I click on close button",
+            "match": {
+              "location": "YourAccountPageSteps.iClickOnCloseButton()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3258206200,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "I click on your community page link",
+            "match": {
+              "location": "YourCommunitySteps.iClickOnYourCommunityPageLink()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1650319800,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "I click on our community work tab",
+            "match": {
+              "location": "YourCommunitySteps.iClickOnOurCommunityWorkTab()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 141010100,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "I should navigate to our community work page",
+            "match": {
+              "location": "YourCommunitySteps.iShouldNavigateToOurCommunityWorkPage()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Your community page feature",
+    "description": "As a user I want to navigate to your community page into watford community website",
+    "id": "your-community-page-feature",
+    "keyword": "Feature",
+    "uri": "src/test/java/uk/wcht/org/resources/featurefile/yourcommunity.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@YourCommunity"
+      }
+    ]
+  }
+]
